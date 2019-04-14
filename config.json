@@ -1,0 +1,14 @@
+{ 
+  "socket": {
+    "ip_address": "127.0.0.1",
+    "port": "9000",
+    "frequency": "1000"
+  },
+  "data": {
+    "csv": "database.csv",
+    "delimiter": "\t",
+    "header": "3",
+    "type": "double",
+    "length": "10"
+  }
+}
