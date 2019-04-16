@@ -1,4 +1,4 @@
-## csv2udp
+# CSV2UDP
 
 Read a Comma separated value file and sends each line as a UDP packet.
 The software is able to send static or dynamic length row, accordingly to a 
@@ -16,7 +16,7 @@ Matteo Ragni 2019
 ### Usage 
 
 ```
-python """ + sys.argv[0] + """ configuration.json
+python csv2upd.py configuration.json
 ```
 
 ### Configuration file
